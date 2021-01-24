@@ -16,7 +16,7 @@ body{
 }
 
 #ourParagraph {
-    background-color: white;
-    border-style: solid;
-    padding: 30 px
+    background-color:white;
+    border-style: ridge;
+    padding: 90 px
 }
